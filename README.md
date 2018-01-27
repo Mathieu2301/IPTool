@@ -7,4 +7,4 @@ Modify your IP and some network card settings
   1. Type `git clone https://github.com/Mathieu2301/IPTool`
   2. Run `iptool.exe`
   
-- With USP : [usp://6763/](usp://6763/)
+- With USP : [`usp://6763/`](usp://6763/)
