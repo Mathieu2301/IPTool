@@ -3,4 +3,6 @@ Modify your IP and some network card settings
 
 ### Install
 With USP : `usp://6763/`  
-Manually : run `iptool.exe`
+Manually :
+  1. Type `git clone https://github.com/Mathieu2301/IPTool`
+  2. Run `iptool.exe`
